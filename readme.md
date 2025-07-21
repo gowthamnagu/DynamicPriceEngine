@@ -52,7 +52,7 @@ The Dynamic Pricing Engine is a machine learning-based system designed to predic
 
 - **Clone the repository**
     
-       git clone https://dagshub.com/gowthambreeze/dynamicfarepricing.git
+       git clone https://dagshub.com/gowthambreeze/DynamicPriceEngine.git
 
 - **Set up a virtual environment** 
 
