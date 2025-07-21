@@ -39,6 +39,14 @@ The Dynamic Pricing Engine is a machine learning-based system designed to predic
 - **Streamlit** — Web UI for interactive model prediction
 - **Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn,** — Data preprocessing and utilities
 - **Linear Regression, Random Forest Regression, XGBoost** - ML Algorithms used for training models
+
+## 🚀 Demo
+
+![Dynamic Fare Pricing Demo](https://github.com/gowthamnagu/dynamicfarepricing/blob/main/image/ScreenRecording2025-07-21165458-ezgif.com-video-to-gif-converter.gif?raw=true)
+
+## 📈 Model Evaluation Metrics
+
+![Model Performance Metrics](https://github.com/gowthamnagu/dynamicfarepricing/blob/main/image/metrics.png)
   
 ## 🚀 Installation    
 
@@ -61,7 +69,6 @@ The Dynamic Pricing Engine is a machine learning-based system designed to predic
 Run the main file to start the application:
 
     streamlit run app.py
-
 
 ## 📄 License
 
