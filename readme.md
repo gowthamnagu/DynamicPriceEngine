@@ -12,7 +12,8 @@ In ride-hailing platforms (e.g., Uber, Ola), pricing depends on fluctuating fact
 Manually defining pricing rules is inefficient. This project builds a regression model to learn the optimal ride cost based on past data and generalize it to new ride requests.
 
 ## 🧠 Project Overview
-The Dynamic Pricing Engine is a machine learning-based system designed to predict real-time ride fares for transportation services based on dynamic features such as demand, supply, customer loyalty, time of booking, and more.Using real-world-like ride data, the project builds multiple regression models to learn patterns in ride pricing and deploys them via an interactive Streamlit web app where users can input trip details and receive instant fare predictions.
+The Dynamic Pricing Engine is a machine learning-based system designed to predict real-time fare optimization for Logistics & E-Commerce based on demand and supply           on dynamic features such as demand, supply, customer loyalty, time of booking, and more.Using real-world-like ride data, the project builds multiple regression models to learn patterns in ride pricing and deploys them via an interactive Streamlit web app where users can input trip details and receive instant fare predictions.
+Real-Time Fare Optimization for Logistics & E-Commerce based on demand and supply                 
 
 ## 🚀 End-to-End Data Science Pipeline
 
